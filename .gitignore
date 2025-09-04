@@ -1,0 +1,27 @@
+# Unreal Engine build/caches
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 빌드 산출물/덤프
+Saved/Cooked/
+Saved/StagedBuilds/
+*.pdb
+*.dmp
+
+# 플러그인 빌드 산출물
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
